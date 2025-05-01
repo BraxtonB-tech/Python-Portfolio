@@ -11,4 +11,8 @@
 
 ### Getting Better!
 ![Third](https://github.com/user-attachments/assets/ab89ff72-1475-42a5-a3ed-31e9d08c432d)
-- Escape sequences are need to make your code look great.
+- Escape sequences are needed to make your code look great.
+
+## More Coding Knowledge
+![Python1](https://github.com/user-attachments/assets/1f17ae47-f7bd-4fb2-ae93-e9cb3a8377d9)
+- Need to know coding
