@@ -3,8 +3,9 @@
 
 ### First Time Using Python
 ![First](https://github.com/user-attachments/assets/9fa104ae-e720-4638-87b0-23275dff8ba5)
+- Print is one of the most basic and used code that you have to use.
 ![Glass](https://github.com/user-attachments/assets/2820cad5-d630-4100-ab36-0d0aa9872892)
-- Hello World!
+- Strings are a must use to getting into more compliclated coding.
 
 ### Getting to Know Python
 ![Second](https://github.com/user-attachments/assets/044b819e-7fe0-42a8-b4fe-053693f4ff6c)
@@ -16,13 +17,14 @@
 
 ### More Coding Knowledge
 ![Python1](https://github.com/user-attachments/assets/1f17ae47-f7bd-4fb2-ae93-e9cb3a8377d9)
-- Need to know coding
+- Need to know coding.
 
 ### Import Random
 ![Python11-1](https://github.com/user-attachments/assets/1586ef5b-3f05-4daf-9267-664fbb6f2be2)
+- This randomize an integer with random.randint.
 ![Python11-3](https://github.com/user-attachments/assets/0311d3d5-37e9-4629-ae60-5b8caf874b79)
+- This randomize an float with random.random.
 ![Python11-6](https://github.com/user-attachments/assets/ed59e396-386f-451e-90cc-df3db9ee3a59)
-- Helps Randomize
 
 ### Range
 ![Braxton - FizzBuzz](https://github.com/user-attachments/assets/5818f892-6048-439a-a11a-bd569e847a6e)
