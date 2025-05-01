@@ -1,4 +1,6 @@
 # Python-Portfolio
 ## Learning Python
-![Python1](https://github.com/user-attachments/assets/84db34fd-7faf-40ff-a2a2-466f2179b0e4)
- - Coding to remember about.
+
+### First Time Using Python
+![First](https://github.com/user-attachments/assets/9fa104ae-e720-4638-87b0-23275dff8ba5)
+- Hello World!
