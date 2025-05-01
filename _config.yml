@@ -1,3 +1,7 @@
+on:
+  push:
+    branches:
+      - main
 Title: Braxton.Python
 Description: Cyberscurity Student
 Theme: jekyll-theme-midnight
