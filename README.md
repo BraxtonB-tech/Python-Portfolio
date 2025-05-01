@@ -3,13 +3,13 @@
 
 ### First Time Using Python
 ![First](https://github.com/user-attachments/assets/9fa104ae-e720-4638-87b0-23275dff8ba5)
-- Print is one of the most basic and used code that you have to use.
+- Print is one of the most basic and commonly used codes that you have to use.
 ![Glass](https://github.com/user-attachments/assets/2820cad5-d630-4100-ab36-0d0aa9872892)
-- Strings are a must use to getting into more compliclated coding.
+- Strings are a must to use to get into more complicated coding.
 
 ### Getting to Know Python
 ![Second](https://github.com/user-attachments/assets/044b819e-7fe0-42a8-b4fe-053693f4ff6c)
-- Inputs are very integral into the basics of python.
+- Inputs are very integral to the basics of Python.
 
 ### Getting Better!
 ![Third](https://github.com/user-attachments/assets/ab89ff72-1475-42a5-a3ed-31e9d08c432d)
@@ -21,9 +21,9 @@
 
 ### Import Random
 ![Python11-1](https://github.com/user-attachments/assets/1586ef5b-3f05-4daf-9267-664fbb6f2be2)
-- This randomize an integer with random.randint.
+- This randomizes an integer with random.randint.
 ![Python11-3](https://github.com/user-attachments/assets/0311d3d5-37e9-4629-ae60-5b8caf874b79)
-- This randomize an float with random.random.
+- This randomizes a float with random.random.
 ![Python11-6](https://github.com/user-attachments/assets/ed59e396-386f-451e-90cc-df3db9ee3a59)
 
 ### Range
@@ -34,11 +34,12 @@
 ![Python14-1](https://github.com/user-attachments/assets/52a75bf0-a0f4-4b47-a5b8-ae926dd1285f)
 ![Python16-2](https://github.com/user-attachments/assets/a2769ec3-f269-4914-8b03-b7f948e521f9)
 ![Life in Weeks](https://github.com/user-attachments/assets/50613236-a465-40b1-9f6b-f5ba4b1537aa)
+- It's a good way to do multiple actions simultaneously.
 
 ### Loop Function
 ![Python13-2](https://github.com/user-attachments/assets/24d1d753-3a0f-4fe3-bbcd-fbb5e3eddac1)
 ![Python13-7](https://github.com/user-attachments/assets/482c818e-ede1-49a2-993d-c06e8ea4960b)
-
+- Loop is what you think it is because it executes code multiple times.
 ## Projects
 ### BMI Calculator
 ![BMI](https://github.com/user-attachments/assets/f3617cde-f687-46b0-a453-b20a0ab6c832)
