@@ -19,6 +19,11 @@
 
 ### Import Random
 ![Python11-6](https://github.com/user-attachments/assets/ed59e396-386f-451e-90cc-df3db9ee3a59)
+- r
+
+### Range
+![Braxton - FizzBuzz](https://github.com/user-attachments/assets/5818f892-6048-439a-a11a-bd569e847a6e)
+- FizzBuzz
 
 ## Projects
 ### BMI Calculator
@@ -35,3 +40,6 @@
 
 ### Expand Rollercoaster
 ![Python9-3](https://github.com/user-attachments/assets/167e58cd-bb25-40e4-8982-9feda7c2083e)
+
+### Treasure Map
+![Treasure Map](https://github.com/user-attachments/assets/7c097371-a0ca-4ed3-b831-f3a023d641d9)
