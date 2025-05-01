@@ -33,5 +33,5 @@
 ### Rollercoaster
 ![Python7-1](https://github.com/user-attachments/assets/6d4070de-982b-46c8-b9c4-400008b50b7e)
 
-### Expend Rollercoaster
+### Expand Rollercoaster
 ![Python9-3](https://github.com/user-attachments/assets/167e58cd-bb25-40e4-8982-9feda7c2083e)
